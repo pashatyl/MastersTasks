@@ -1,0 +1,4 @@
+kafka-python
+requests
+beautifulsoup4
+lxml
