@@ -1,0 +1,8 @@
+PEERDIR(
+    ../
+    ../../src
+)
+
+INCLUDE(
+    5.c
+)
