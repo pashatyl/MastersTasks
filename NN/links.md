@@ -1,4 +1,4 @@
-# List of tasks and solutions from NeuralNetworks cource
+# List of tasks and solutions from NeuralNetworks course
 
 ## HSE Math competition
 ### Predict ratings of hotels given the review texts
